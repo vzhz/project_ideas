@@ -2,6 +2,10 @@
 Written in someone-should-make this form, as the ideas come to me. Inspired my some brave souls from my academic life, who kept a public, running list.
 
 
+
+#### Tool to integrate Uber & Lyft ride requests
+I have noticed several ride-share drivers switching between apps, as they drive for more than one to boost their chances of having riders. I am sure neither platform would be pleased with this, but making a tool that integrates the requests from the two and alerts drivers of changes between app use would be a boon for them and may increase the safety of their driving.
+
 #### Reminders for commit-chasers
 One of my goals is to commit at least two times every day in order to make sure I'm getting my head into a project and applying what I'm learning. Maybe you have similiar goals too. I would like to make a plug-in that reminds you, in your terminal or editor, how many commits you have made that day and how close you are to your goal. I could also allow the user to specify a project they want to make sustained progress on and have a message that nudges you to work on that project if you are doing otherwise, but that's later down the road.
 
