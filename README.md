@@ -2,6 +2,9 @@
 Written in someone-should-make this form, as the ideas come to me. Inspired my some brave souls from my academic life, who kept a public, running list.
 
 
+#### Mapping of harassment (or other events)
+I do a lot of walking and biking in different areas of my city and have noticed that uncomfortable situations arise in some areas far often than others. After realizing that two-dangerous-feeling events had occurred within a block of each other and over a short time period, I had the idea to make a map of where harassment had occurred and see what trends arise, perhaps informing my safety decisions. I believe this could be done with Google APIs, since they already track my location and allow markers to be added to a map using your location.
+
 
 #### Tool to integrate Uber & Lyft ride requests
 I have noticed several ride-share drivers switching between apps, as they drive for more than one to boost their chances of having riders. I am sure neither platform would be pleased with this, but making a tool that integrates the requests from the two and alerts drivers of changes between app use would be a boon for them and may increase the safety of their driving.
