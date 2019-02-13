@@ -14,3 +14,6 @@ One of my goals is to commit at least two times every day in order to make sure 
 
 #### Erase Chris
 I have been recieving unwanted messages from one person through a variety of platforms over the course of the last decade. Although there is no real threat, having him pop up on another platform and try to contact me every year or so is distracting and stressful, and I realized recently that it would be enough for me to regain some sense of control over his ability to contact me - I don't want to see his name again. Everyone experiences situations like this differently, so this will not be a far reaching "fix", but for me it would be enough to make an extension that would simply erase his name from my browser. Here's to taking charge.
+
+#### Mood tracking
+I have been using a variety of apps to help me identify the factors that influence mood swings. I would like data from these apps to be brought into one place so I can more easily look for trends in the data. Many of these apps allow export and for the rest there is webscraping! Idea came from @pjf's personal tracking efforts.
